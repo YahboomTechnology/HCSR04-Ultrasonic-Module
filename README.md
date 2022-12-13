@@ -6,7 +6,7 @@ This is a professional ultrasonic module with four vertically pins. It can be pl
 ![](https://github.com/YahboomTechnology/HCSR04-Ultrasonic-Module/blob/main/Parameter%201.jpg)
 ![](https://github.com/YahboomTechnology/HCSR04-Ultrasonic-Module/blob/main/Parameter%202.jpg)
 # More Details
-[Got Module](https://category.yahboom.net/products/rosmaster-r2l)
+[Got Module](https://category.yahboom.net/products/yahboom-hc-sr04-ultrasonic-module)
 
 # Please Contact Us
 If you have any problem when using our robot after checking the tutorial, please contact us.
