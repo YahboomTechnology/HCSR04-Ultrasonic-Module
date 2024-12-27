@@ -1,0 +1,57 @@
+Lower drive plate	Left front wheel
+   AO1		M1
+   AO2		M2
+   GND		G
+   3V3		V
+   E1B		B
+   E1A		A
+   
+Lower drive plate	Right front wheel
+   BO1		M1
+   BO2		M2
+   GND		G
+   3V3		V
+   E2B		B
+   E2A		A
+   
+Upper drive plate	Left rear wheel
+   AO1		M1
+   AO2		M2
+   GND		G
+   3V3		V
+   E1B		B
+   E1A		A
+   
+Upper drive plate	Right rear wheel
+   BO1		M1
+   BO2		M2
+   GND		G
+   3V3		V
+   E2B		B
+   E2A		A
+
+Lower driver board   	MSPM0G3507
+   AIN1		PA0
+   AIN2		PA1
+   BIN1		PA7
+   BIN2		PB2	
+	
+Upper driver board   MSPM0G3507
+   AIN1		PB6
+   AIN2		PB7
+   BIN1		PA12
+   BIN2		PA13
+    5V		5V
+    GND		GND
+
+MSPM0G3507	Ultrasonic ranging module
+    PA26		      Trig
+    PA27                          Echo
+      5V                            VCC
+    GND                           GND
+
+MSPM0G3507	USB to TTL Module
+        PA10		         RXD
+        PA11		         TXD
+        3V3		         VCC
+        GND		         GND
